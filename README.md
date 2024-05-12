@@ -1,7 +1,5 @@
 # ⏱️ STOPWATCH ⏱️
 
-![Stopwatch Demo](demo.gif)
-
 ## Overview
 
 Welcome to the ⏱️ Stopwatch web application! Built with HTML, CSS, and JavaScript, this sleek and interactive stopwatch provides users with a delightful experience for tracking time intervals, recording lap times, and managing stopwatch functions with ease.
